@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2024-04-26
 // @description  Persist swagger authorization
-// @author       You
+// @author       https://github.com/RadeIlic
 // @match        *://*.your-swagger-page.com/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
